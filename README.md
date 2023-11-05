@@ -31,9 +31,6 @@ To use these implementations, you can import the relevant Python files into your
 
 For a detailed explanation of the algorithms and usage examples, please refer to the `Lab_03__Solve_linear_system_and_matrix_decomposition.pdf` file in this repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 We hope you find these implementations useful for your linear algebra and matrix decomposition needs. If you have any questions or encounter any issues, feel free to open an issue in this repository.
 
